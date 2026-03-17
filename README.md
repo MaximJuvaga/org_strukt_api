@@ -33,7 +33,7 @@ REST API для управления организационной структ
 
 ```bash
 # Клонировать репозиторий
-git clone https://github.com/ТВОЙ_НИК/org_strukt_api.git
+git clone https://github.com/MaximJuvaga/org_strukt_api.git
 cd org_strukt_api
 
 # Запустить контейнеры
